@@ -58,8 +58,8 @@
     <string name="lang_en">English</string>
     <string name="lang_ar">العربية</string>
     <string name="about">حول التطبيق</string>
-    <string name="about_title">حول آب أنبار</string>
-    <string name="about_desc">آب أنبار نظام متكامل لإدارة المخزون والمبيعات والعملاء يعمل على هاتفك.</string>
+    <string name="about_title">حول كالانو</string>
+    <string name="about_desc">كالانو نظام متكامل لإدارة المخزون والمبيعات والعملاء يعمل على هاتفك.</string>
     <string name="developer">المطور</string>
     <string name="developer_name">مهدي طريري</string>
     <string name="contact">التواصل</string>
@@ -111,7 +111,7 @@
     <string name="login_hint">الافتراضي: admin / 0000</string>
     <string name="welcome">مرحباً %1$s</string>
     <string name="login_failed">اسم المستخدم أو الرمز خاطئ</string>
-    <string name="biometric_title">الدخول إلى آب أنبار</string>
+    <string name="biometric_title">الدخول إلى كالانو</string>
     <string name="biometric_subtitle">بصمة أو وجه</string>
     <string name="use_pin">استخدام PIN</string>
     <string name="biometric_ok">تم الدخول بالبصمة</string>
